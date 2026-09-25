@@ -1,4 +1,4 @@
-package ch02;
+package ch02.practice;
 
 public class FloatEx1 {
     public static void main(String[] args) {

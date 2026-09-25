@@ -1,6 +1,5 @@
-package ch02;
+package ch02.practice;
 
-import java.nio.charset.Charset;
 import java.util.Scanner;
 
 public class ScannerEx {

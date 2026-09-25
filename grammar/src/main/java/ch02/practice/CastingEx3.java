@@ -1,4 +1,4 @@
-package ch02;
+package ch02.practice;
 
 public class CastingEx3 {
     public static void main(String[] args) {

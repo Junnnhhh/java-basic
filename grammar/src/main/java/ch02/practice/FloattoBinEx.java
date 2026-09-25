@@ -1,4 +1,4 @@
-package ch02;
+package ch02.practice;
 
 public class FloattoBinEx {
     public static void main(String[] args) {
